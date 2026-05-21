@@ -1,0 +1,5 @@
+Simple alert: I am a JS Alert
+Confirmation: I am a JS Confirm
+Prompt: I am a JS prompt
+Simple alert: I am a JS Alert
+I am a JS Alert
